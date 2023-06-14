@@ -1,0 +1,20 @@
+@import url(./media-1224.css);
+
+@import url(./media-768-1224.css);
+
+@import url(./media-500-768.css);
+@import url(./media-s-500.css);
+
+footer,#footer2{
+    width: 80%;
+    margin: 5% 10%;
+}
+.footer-menu:hover{
+    background-color: rgb(28, 49, 103);
+}
+#header1 {
+    width: 100%;
+    height: fit-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

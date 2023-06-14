@@ -1,0 +1,210 @@
+@media screen and (max-width:550px) {
+
+    .footer-menu {
+        padding: 10px 10px;
+        background-color: #132144;
+        margin: 10px 10px;
+        font-size: 14px;
+        text-align: start;
+    }
+
+    #sect-hig h1 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    body {
+        background-color: #01091D;
+    }
+
+    h1,
+    p {
+        color: white;
+    }
+
+    .positi-line {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #sect-hig {
+        width: 84%;
+        margin-left: 3%;
+    }
+
+    .img-size {
+        width: 96%;
+        height: auto;
+        margin: 10px;
+    }
+
+    #sect-hig #p1 {
+        font-size: 15px;
+        font-weight: 500;
+        margin: 20px 0px;
+    }
+
+    #sect-hig #p2 {
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .positi-line {
+        display: flex;
+        align-items: center;
+    }
+
+    .email-log {
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+
+    
+
+    #nav1 {
+        width: 94%;
+        margin: auto;
+        display: flex;
+    }
+
+    .nav11 {
+        width: 100%;
+        height: fit-content;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: end;
+        align-items: center;
+    }
+
+    .dropdown {
+        display: flex;
+    }
+
+    #btn1-hidden {
+        display: block;
+    }
+
+    #btn2-hidden {
+        display: none;
+    }
+
+    #nav2 {
+        display: flex;
+        align-items: center;
+    }
+
+    #nav2 {
+        width: 94%;
+        margin: auto;
+        height: 500px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6), rgba(82, 5, 5, 0.7)), url("https://assets.nflxext.com/ffe/siteui/vlv3/ceb3b1eb-2673-4dd9-a6e3-0cd7a5e130ee/7540883d-de7a-4a69-8cc6-c3885d3a2b0b/IN-en-20230522-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+        border-radius: 20px;
+        margin-top: 10px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #sect-art {
+        width: 90%;
+        margin: auto;
+        border-radius: 30px;
+        background: linear-gradient(120deg, rgba(0, 8, 29, 1), rgba(20, 10, 37, 1), rgba(26, 10, 38, 1), rgba(63, 9, 32, 1));
+    }
+
+    hr {
+        width: 94%;
+        height: 10px;
+        border-width: 0;
+        color: gray;
+        background-color: gray;
+        margin: auto;
+    }
+
+    article {
+        align-items: center;
+    }
+
+    article div {
+        padding: 5px;
+        padding-right: 25px;
+        width: 100%;
+    }
+
+    article div h1 {
+        font-size: 30px;
+        font-weight: 700;
+        padding: 10px;
+    }
+
+    article div p {
+        font-size: 18px;
+        font-weight: 400;
+        padding: 5px;
+    }
+
+    .reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    footer {
+        width: 90%;
+        margin: auto;
+    }
+
+    .footer-data {
+        width: 90%;
+        margin: auto;
+    }
+
+    #footer-head {
+        font-size: 30px;
+        font-weight: bolder;
+    }
+
+    #sect-art {
+        margin-bottom: 3%;
+    }
+
+    #p4 {
+        font-size: 15px;
+    }
+
+    .positi-line-2 {
+
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    a {
+        color: white;
+    }
+
+    .footer-list a {
+        display: inline-block;
+        min-width: 220px;
+        padding: 10px 0px;
+        text-align: start;
+        color: #A0A2AA;
+        justify-content: space-between;
+    }
+
+    .footer-list {
+        flex-wrap: wrap;
+        height: auto;
+        display: flex;
+    }
+
+    .footer2-data {
+        padding: 80px 40px 40px 0px;
+    }
+
+    #footer2 p {
+        margin: 10px 0px;
+    }
+
+    .dropdown-2 {
+        margin: 20px 0px;
+    }
+}

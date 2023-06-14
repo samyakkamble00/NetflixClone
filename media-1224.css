@@ -1,0 +1,193 @@
+@media (min-width:1224px) and (max-width:10000px) {
+
+    .footer-menu {
+        margin: 10px;
+        padding: 10px;
+        background-color: #132144;
+        font-size: 24px;
+        text-align: start;
+    }
+
+    .footer-menu p {
+        padding-top: 5px;
+    }
+
+    .dropdown {
+        display: flex;
+    }
+
+    #sect-hig h1 {
+        font-size: 88px;
+        font-weight: 1000;
+    }
+
+    body {
+        background-color: #01091D;
+    }
+
+    h1,
+    p {
+        color: white;
+    }
+
+    #sect-hig {
+        margin-left: 5%;
+        width: 55%;
+
+    }
+
+    #btn1-hidden {
+        display: none;
+    }
+
+    #btn2-hidden {
+        display: block;
+    }
+
+    .img-size {
+        width: 44%;
+        height: auto;
+    }
+
+    #sect-hig #p1 {
+        font-size: 20px;
+        font-weight: 500;
+        margin: 20px 0px;
+    }
+
+    #sect-hig #p2 {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .positi-line {
+        display: flex;
+        align-items: center;
+    }
+
+    .email-log {
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+
+
+
+    #nav1 {
+        width: 94%;
+        margin: auto;
+        display: flex;
+    }
+
+    .nav11 {
+        width: 100%;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+    }
+
+    #nav2 {
+        display: flex;
+        align-items: center;
+    }
+
+    #nav2 {
+        width: 94%;
+        margin: auto;
+        height: 760px;
+        background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6), rgba(82, 5, 5, 0.7)), url("https://assets.nflxext.com/ffe/siteui/vlv3/ceb3b1eb-2673-4dd9-a6e3-0cd7a5e130ee/7540883d-de7a-4a69-8cc6-c3885d3a2b0b/IN-en-20230522-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+        border-radius: 20px;
+        margin-top: 10px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #sect-art {
+        width: 90%;
+        margin: auto;
+        border-radius: 30px;
+        background: linear-gradient(120deg, rgba(0, 8, 29, 1), rgba(20, 10, 37, 1), rgba(26, 10, 38, 1), rgba(63, 9, 32, 1));
+    }
+
+    hr {
+        width: 90%;
+        height: 10px;
+        border-width: 0;
+        color: gray;
+        background-color: gray;
+        margin: auto;
+    }
+
+    article {
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    article div {
+        width: 46%;
+    }
+
+    article div h1 {
+        font-size: 48px;
+        font-weight: 900;
+    }
+
+    article div p {
+        font-size: 20px;
+        font-weight: 400;
+        padding: 5px;
+    }
+
+
+
+    .footer-data {
+        width: 100%;
+    }
+
+    #footer-head {
+        font-size: 40px;
+        font-weight: bolder;
+    }
+
+    #p4 {
+        font-size: 20px;
+    }
+
+    .positi-line-2 {
+        display: flex;
+        align-items: center;
+    }
+
+    a {
+        color: white;
+    }
+
+    .footer-list a {
+        display: inline-block;
+        min-width: 24%;
+        padding: 10px 0px;
+        text-align: start;
+        color: #A0A2AA;
+        justify-content: space-between;
+    }
+
+    .footer-list {
+        flex-wrap: wrap;
+        height: auto;
+        display: flex;
+    }
+
+    #footer2 p {
+        margin-top: 36px;
+    }
+
+    .dropdown-2 {
+        margin: 20px 0px;
+    }
+
+    #net_last {
+        color: gray;
+    }
+}
